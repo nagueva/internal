@@ -84,13 +84,13 @@
     "Catalogue Sets": "Catalogue Sets",
     "Change the appearance of the muOS frontend launcher": "Muda a aparência do inicializador do frontend do muOS",
     "Load user created RetroArch configurations": "Carrega configurações criadas pelo usuário no RetroArch",
-    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
-    "RetroArch Configurations": "RetroArch Configurations",
-    "muOS Themes": "muOS Themes"
+    "Load user created artwork catalogue for content": "Carrega configurações criadas pelo usuário no RetroArch",
+    "RetroArch Configurations": "Configurações do RetroArch",
+    "muOS Themes": "Temas muOS"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure os modos da CPU para ajustar a frequência e equilibrar energia e desempenho",
-    "GOVERNOR": "GOVERNOR",
+    "GOVERNOR": "GOVERNADOR",
     "No Governors Found...": "Nenhum Governador Encontrado…"
   },
   "muxhdmi": {
@@ -105,7 +105,7 @@
     "576p": "576p",
     "720p + 50hz": "720p + 50hz",
     "720p + 60hz": "720p + 60hz",
-    "Audio Output": "Audio Output",
+    "Audio Output": "Saída de áudio",
     "Choose the color space, such as RGB or YUV.": "Choose the color space, such as RGB or YUV.",
     "Colour Depth": "Colour Depth",
     "Colour Range": "Colour Range",
