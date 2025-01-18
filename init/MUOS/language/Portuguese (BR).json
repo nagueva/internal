@@ -285,7 +285,7 @@
     "Sleep 60m + Shutdown": "Suspender por 60m + Desligar",
     "Sleep 60s + Shutdown": "Suspender por 60s + Shutdown",
     "Sleep Function": "Modo de Suspensão",
-    "Sleep Suspend": "Cancelar Suspensão",
+    "Sleep Suspend": "Cancelar Suspensão"
   },
   "muxrtc": {
     "12 Hour": "12 Horas",
@@ -477,7 +477,7 @@
     "Theme": "Tema",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Alterna conteúdo oculto exibido ao Explorar Conteúdo - Coloque um caractere '.' ou '_' no início de um nome de arquivo ou pasta para ocultá-lo",
     "Toggle the background music of the frontend - This will stop if content is launched": "Alterna a música de fundo do frontend - Isso vai parar se o conteúdo for iniciado",
-    "Toggle the navigation sound of the frontend if the current theme supports it": "Alterna o som de navegação do frontend se o tema atual suportar",
+    "Toggle the navigation sound of the frontend if the current theme supports it": "Alterna o som de navegação do frontend se o tema atual suportar"
   },
   "muxvisual": {
     "Background Animation": "Animações de Plano de Fundo",
@@ -533,7 +533,7 @@
     "Toggle the visibility of the network glyph": "Alterna a visibilidade do ícone de rede",
     "Top Left": "Topo Esquerdo",
     "Top Middle": "Topo Centro",
-    "Top Right": "Topo Direito",
+    "Top Right": "Topo Direito"
   },
   "muxwebserv": {
     "Network Time Sync": "Sincronia de Data e Hora por Rede",
